@@ -1,0 +1,19 @@
+pip install streamlit-webrtc pyaudio
+
+pip install google-cloud-speech
+
+pip install google-auth google-auth-oauthlib google-cloud-bigquery 
+
+SpeechRecognition pyaudio pandas requests google-generativeai
+
+pip install google-cloud-bigquery google-auth google-auth-oauthlib google-generativeai pandas requests  
+ 
+pip install pyaudio    
+ 
+python -m pip install streamlit
+ 
+pip install google-generativeai
+ 
+python -m pip install --upgrade google-cloud-bigquery
+ 
+pip install SpeechRecognition
